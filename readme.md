@@ -6,61 +6,61 @@ lltodo: links
 
 Table of Contents
 -----------------
-* 0. [Definitions of Terms](#definitions-of-terms)
-* 1. [Mission Statement](#mission-statement)
-* 2. [Organizational Structure](#organizational-structure)
-* 3. [Core Responsibilities](#core-responsibilities)
-* 3.1. [Advocacy](#advocacy)
-* 3.2. [Communications](#communications)
-* 3.2.1. [Resource Repository](#resource-repository)
-* 3.2.2. [E-mail Account](#e-mail-account)
-* 3.2.2a. [Purpose](#purpose)
-* 3.2.2b. [Response Time](#response-Time)
-* 3.2.2c. [Visibility](#visibility)
-* 3.2.3. [Promotion](#promotion)
-* 3.3. [Research on Community Needs](#research-on-community-needs)
-* 4. [Supporting Responsibilities](#supporting-responsibilities)
-* 4.1. [Meetings](#meetings)
-* 4.1.1. [Frequency and Duration](#frequency-and-duration)
-* 4.1.2. [Accessibility to Community](#accessibility-to-community)
-* 4.2. [Asset Management](#asset-management)
-* 4.2.1. [Funding](#funding)
-* 4.2.2. [Data Assets](#data-assets)
-* 4.2.2a. [Data Storage](#data-storage)
-* 4.2.2b. [Data Sharing](#data-sharing)
-* 4.2.3. [Physical Assets](#physical-assets)
-* 4.2.3a. [Material Storage](#material-storage)
-* 4.2.3b. [Material Sharing](#material-sharing)
-* 4.2.4. [Access Control](#access-control)
-* 4.2.4a. [Access Privileges](#access-privileges)
-* 4.2.4b. [Updates](#updates)
-* 4.3. [Changes to Constitution](#changes-to-constitution)
-* 4.3.1. [Accessibility to Community](#accessibility-to-community)
-* 4.3.2. [Changes to Constitution](#changes-to-constitution)
-* 5. [Membership](#membership)
-* 5.1. [Joining CSPAC - Elections](#joining-cspac---elections)
-* 5.1.2. [Eligibility](#eligibility)
-* 5.1.3. [Term Lengths](#term-lengths)
-* 5.1.4. [Term Limits](#term-limits)
-* 5.1.5. [Election Process](#election-process)
-* 5.1.5a. [Election Frequency](#election-frequency)
-* 5.1.5b. [Ballot Nominations](#ballot-nominations)
-* 5.1.5c. [The Ballot](#the-ballot)
-* 5.1.5c. [Voting Period](#voting-period)
-* 5.1.5d. [Election Results](#election-results)
-* 5.2. [Joining CSPAC - Temporary Membership](#joining-cspac---temporary-membership)
-* 5.2.1. [Eligibility](#eligibility)
-* 5.2.2. [Term Length](#term-length)
-* 5.2.3. [Responsibilities](#responsibilities)
-* 5.2.4. [Exceptions](#exceptions)
-* 5.3. [Leaving CSPAC](#leaving-cspac)
-* 5.3.1. [Resignation by Choice](#resignation-by-choice)
-* 5.3.2. [Removal of a Board Member](#removal-of-a-board-member)
-* 5.4. [Member Responsibilities](#member-responsibilities)
-* 5.4.1.a. [Meeting Attendance](#meeting-attendance)
-* 5.4.1.b. [Weekly Assignments](#weekly-assignments)
-* 5.4.2. [Adherence to Constitution](#adherence-to-constitution)
-* 5.4.3. [Advancement of the CSPAC Mission Statement and Core Responsibilities](#advancement-of-the-cspac-mission-statement-and-core-responsibilities)
+* 0. [Definitions of Terms](#0-definitions-of-terms)
+* 1. [Mission Statement](#1-mission-statement)
+* 2. [Organizational Structure](#2-organizational-structure)
+* 3. [Core Responsibilities](#3-core-responsibilities)
+* 3.1. [Advocacy](#31-advocacy)
+* 3.2. [Communications](#32-communications)
+* 3.2.1. [Resource Repository](#321-resource-repository)
+* 3.2.2. [E-mail Account](#322-e-mail-account)
+* 3.2.2a. [Purpose](#322a-purpose)
+* 3.2.2b. [Response Time](#322b-response-Time)
+* 3.2.2c. [Visibility](#322c-visibility)
+* 3.2.3. [Promotion](#323-promotion)
+* 3.3. [Research on Community Needs](#33-research-on-community-needs)
+* 4. [Supporting Responsibilities](#4-supporting-responsibilities)
+* 4.1. [Meetings](#41-meetings)
+* 4.1.1. [Frequency and Duration](#411-frequency-and-duration)
+* 4.1.2. [Accessibility to Community](#412-accessibility-to-community)
+* 4.2. [Asset Management](#42-asset-management)
+* 4.2.1. [Funding](#421-funding)
+* 4.2.2. [Data Assets](#422-data-assets)
+* 4.2.2a. [Data Storage](#422a-data-storage)
+* 4.2.2b. [Data Sharing](#422b-data-sharing)
+* 4.2.3. [Physical Assets](#423-physical-assets)
+* 4.2.3a. [Material Storage](#423a-material-storage)
+* 4.2.3b. [Material Sharing](#423b-material-sharing)
+* 4.2.4. [Access Control](#424-access-control)
+* 4.2.4a. [Access Privileges](#424a-access-privileges)
+* 4.2.4b. [Updates](#424b-updates)
+* 4.3. [Changes to Constitution](#43-changes-to-constitution)
+* 4.3.1. [Accessibility to Community](#431-accessibility-to-community)
+* 4.3.2. [Changes to Constitution](#432-changes-to-constitution)
+* 5. [Membership](#5-membership)
+* 5.1. [Joining CSPAC - Elections](#51-joining-cspac---elections)
+* 5.1.2. [Eligibility](#512-eligibility)
+* 5.1.3. [Term Lengths](#513-term-lengths)
+* 5.1.4. [Term Limits](#514-term-limits)
+* 5.1.5. [Election Process](#515-election-process)
+* 5.1.5a. [Election Frequency](#515a-election-frequency)
+* 5.1.5b. [Ballot Nominations](#515b-ballot-nominations)
+* 5.1.5c. [The Ballot](#515c-the-ballot)
+* 5.1.5c. [Voting Period](#515c-voting-period)
+* 5.1.5d. [Election Results](#515d-election-results)
+* 5.2. [Joining CSPAC - Temporary Membership](#52-joining-cspac---temporary-membership)
+* 5.2.1. [Eligibility](#521-eligibility)
+* 5.2.2. [Term Length](#522-term-length)
+* 5.2.3. [Responsibilities](#523-responsibilities)
+* 5.2.4. [Exceptions](#524-exceptions)
+* 5.3. [Leaving CSPAC](#53-leaving-cspac)
+* 5.3.1. [Resignation by Choice](#531-resignation-by-choice)
+* 5.3.2. [Removal of a Board Member](#532-removal-of-a-board-member)
+* 5.4. [Member Responsibilities](#54-member-responsibilities)
+* 5.4.1.a. [Meeting Attendance](#541a-meeting-attendance)
+* 5.4.1.b. [Weekly Assignments](#541b-weekly-assignments)
+* 5.4.2. [Adherence to Constitution](#542-adherence-to-constitution)
+* 5.4.3. [Advancement of the CSPAC Mission Statement and Core Responsibilities](#543-advancement-of-the-cspac-mission-statement-and-core-responsibilities)
 
 
 --------------------------------------------------------------------------------
@@ -95,7 +95,7 @@ Voting policies and exceptions may be defined in other sections of this Constitu
 
 3. Core Responsibilities
 ------------------------
-The core responsibilities and pillars of CSPAC, in pursuit of the [Mission Statement](#mission-statement), include [Advocacy](#advocacy), [Communications](#communications), and [Research on Community Needs](#research-on-community-needs). 
+The core responsibilities and pillars of CSPAC, in pursuit of the [Mission Statement](#1-mission-statement), include [Advocacy](#31-advocacy), [Communications](#32-communications), and [Research on Community Needs](#33-research-on-community-needs). 
 
 
 ### 3.1. Advocacy
@@ -117,13 +117,13 @@ It is the responsibility of the Board to maintain open, accessible, and regular 
 
 #### 3.2.1. Resource Repository
 The Board shall maintain and curate a well-organized repository of information for CSPhD students through a wiki-like website.
-Such a repository must aim to accumulate and organize the breadth of student resources made available by Northwestern University and its subdivisions, including but not limited to: The Graduate School, Student Affairs, and the Office of Fellowships. [a]CSPhD students should be able to navigate the repository to find the desired information. The Board must ensure all CSPhD students are aware of the existence of the repository and how to access it. The current version of this is a wiki linked on the [CSPAC website](cspac.cs.northwestern.edu). 
+Such a repository must aim to accumulate and organize the breadth of student resources made available by Northwestern University and its subdivisions, including but not limited to: The Graduate School, Student Affairs, and the Office of Fellowships. CSPhD students should be able to navigate the repository to find the desired information. The Board must ensure all CSPhD students are aware of the existence of the repository and how to access it. The current version of this is a wiki linked on the [CSPAC website](cspac.cs.northwestern.edu). 
 
 #### 3.2.2. E-mail Account
 ##### 3.2.2.a. Purpose
 The CSPAC email address, cspac@u.northwestern.edu, shall exist to allow for
 1. CSPhD students to communicate with the Board with respect to the Mission Statement and Core Responsibilities outlined in this Constitution, and
-2. the Board to communicate with other parties in pursuit of the [Mission Statement](#mission-statement), [Core Responsibilities](#core-responsibilities), and [Supporting Responsibilities](#supporting-responsibilities) outlined in this Constitution.
+2. the Board to communicate with other parties in pursuit of the [Mission Statement](#1-mission-statement), [Core Responsibilities](#3-core-responsibilities), and [Supporting Responsibilities](#4-supporting-responsibilities) outlined in this Constitution.
 
 ##### 3.2.2.b. Response Time
 The Board must respond to all help-requests sent by CSPhD students within two weeks. 
@@ -162,11 +162,11 @@ Any CSPhD student must be permitted to attend the weekly CSPAC board meeting.
 #### 4.2.1. Funding
 Funding will be used only for purposes of official CSPAC events.
 No board member is allowed to retain money on behalf of the group.
-All expenditures, and funding, and budgets for CSPAC will be accounted for in a public document, made available here[b].
+All expenditures, and funding, and budgets for CSPAC will be accounted for in a public document, made available here.
 
 #### 4.2.2. Data Assets
 ##### 4.2.2.a. Data Storage
-All Data, including emails and documents,[c][d] collected or created by CSPAC must only be stored on CSPAC-controlled databases[e].
+All Data, including emails and documents, collected or created by CSPAC must only be stored on CSPAC-controlled databases.
 No Data may be stored on any external databases, including databases or accounts controlled by individual Board members, CSPhD students, CS department faculty, or other external parties.
 
 ##### 4.2.2.b. Data Sharing
@@ -220,7 +220,7 @@ A candidate must meet the following requirements to run for election to a board 
 * The candidate must be a CSPhD student.
 * The candidate must not plan to graduate during the term the candidate would be elected to serve during.
 * The candidate must have completed two full quarters as a full-time CSPhD student.
-* The candidate must not exceed the [term limits](#term-limits) established by this Constitution.
+* The candidate must not exceed the [term limits](#514-term-limits) established by this Constitution.
 
 #### 5.1.3. Term Lengths
 Each elected member’s term length is four quarters.
@@ -233,10 +233,10 @@ Terms, whether whole or partial, where the board member served as an unelected m
 The Board must facilitate an election as defined in each of the subsections of 5.1.5.
 
 ##### 5.1.5.a. Election Frequency
-Elections must occur twice per year, in the Fall and Spring quarters. [f]
+Elections must occur twice per year, in the Fall and Spring quarters.
 
 ##### 5.1.5.b. Ballot Nominations
-The Board must, to the best of the Board’s ability, provide all CSPhDs with the following at least two weeks before the start of the [Voting Period](#voting-period):
+The Board must, to the best of the Board’s ability, provide all CSPhDs with the following at least two weeks before the start of the [Voting Period](#515c-voting-period):
 * The mission of CSPAC
 * The term length
 * The eligibility requirements
@@ -245,7 +245,7 @@ The Board must, to the best of the Board’s ability, provide all CSPhDs with th
 
 ##### 5.1.5.c. The Ballot
 All nominated candidates who meet the Eligibility requirements must be listed on the election ballot.
-[g]CSPAC will host informational sessions that are mandatory in order to apply to the board in order to provide guidance on expected commitments.  
+CSPAC will host informational sessions that are mandatory in order to apply to the board in order to provide guidance on expected commitments.  
 
 ##### 5.1.5.c. Voting Period
 Voting must take place over, at minimum, a seven day period.
@@ -286,7 +286,7 @@ To qualify for removal, the member must be found to have failed to meet their re
 
 ### 5.4. Member Responsibilities
 ##### 5.4.1.a. Meeting Attendance
-The Board member is required to attend the weekly, regularly scheduled [CSPAC meeting](#meetings) for the full hour.
+The Board member is required to attend the weekly, regularly scheduled [CSPAC meeting](#41-meetings) for the full hour.
 The Board member may miss up to two weekly meetings for every ten weeks in an academic term for personal or professional reasons without consequence.
 In the event that a Board member must miss more than two meetings in a ten week academic term, the Board member must appoint themselves a temporary member (as defined in Section 5.2) for the duration of their absence up to the remaining length of their term.
 
