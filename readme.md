@@ -68,6 +68,7 @@ Table of Contents
 --------------------------------------------------------------------------------
 
 
+<br></br>
 ## 0. Definitions of Terms
 * CSPAC :: Computer Science PhD Advisory Council
 * CSPhDs :: The body of all PhD students at Northwestern University who take one of the Computer Science qualifying exams, as outlined in the Graduate Student Manual in order to advance to candidacy in their degree. This includes, but is not limited to, PhD students in the following programs: CS, CSLS, TSB, and CE.
@@ -79,6 +80,7 @@ Table of Contents
 
 
 
+<br></br>
 ## 1. Mission Statement
 The mission of the Computer Science PhD Advisory Council is to promote the well-being of CSPhDs through advocacy and information-sharing.
 We seek to create and curate an accessible informational repository to connect CSPhDs with the resources they need for a healthy and productive graduate experience.
@@ -86,12 +88,14 @@ We strive to elevate the voice and power of CSPhD students to address concerns t
 
 
 
+<br></br>
 ## 2. Organizational Structure
 All CSPAC board members, whether elected or serving with interim status, have an equal vote.
 Voting policies and exceptions may be defined in other sections of this Constitution.
 
 
 
+<br></br>
 ## 3. Core Responsibilities
 The core responsibilities and pillars of CSPAC, in pursuit of the [Mission Statement](#1-mission-statement), include [Advocacy](#31-advocacy), [Communications](#32-communications), and [Research on Community Needs](#33-research-on-community-needs). 
 
@@ -144,6 +148,7 @@ The Board must maintain awareness of the needs and concerns of all CSPhD student
 
 
 
+<br></br>
 ## 4. Supporting Responsibilities
 ### 4.1. Meetings
 #### 4.1.1. Frequency and Duration
@@ -206,6 +211,7 @@ Any change to the CSPAC Constitution must be put to vote. A change may only be m
 
 
 
+<br></br>
 ## 5. Membership
 The number of members of the board should be maintained between 5 and 9 members. 
 
