@@ -11,18 +11,27 @@ Table of Contents
 | 3. | [Core Responsibilities](#3-core-responsibilities) |
 | 3.1. | [Advocacy](#31-advocacy) |
 | 3.2. | [Communications](#32-communications) |
+| 3.3. | [Research on Community Needs](#33-research-on-community-needs) |
+| 4. | [Supporting Responsibilities](#4-supporting-responsibilities) |
+| 4.1. | [Meetings](#41-meetings) |
+| 4.2. | [Asset Management](#42-asset-management) |
+| 4.3. | [Changes to Constitution](#43-changes-to-constitution) |
+| 5. | [Membership](#5-membership) |
+| 5.1. | [Joining CSPAC - Elections](#51-joining-cspac---elections) |
+| 5.2. | [Joining CSPAC - Temporary Membership](#52-joining-cspac---temporary-membership) |
+| 5.3. | [Leaving CSPAC](#53-leaving-cspac) |
+| 5.4. | [Member Responsibilities](#54-member-responsibilities) |
+
+<!-- All minor headings, in case someone later wants a super big TOC. -->
+<!-- ------------- -->
 <!-- | 3.2.1. | [Resource Repository](#321-resource-repository) | -->
 <!-- | 3.2.2. | [E-mail Account](#322-e-mail-account) | -->
 <!-- | 3.2.2a. | [Purpose](#322a-purpose) | -->
 <!-- | 3.2.2b. | [Response Time](#322b-response-Time) | -->
 <!-- | 3.2.2c. | [Visibility](#322c-visibility) | -->
 <!-- | 3.2.3. | [Promotion](#323-promotion) | -->
-| 3.3. | [Research on Community Needs](#33-research-on-community-needs) |
-| 4. | [Supporting Responsibilities](#4-supporting-responsibilities) |
-| 4.1. | [Meetings](#41-meetings) |
 <!-- | 4.1.1. | [Frequency and Duration](#411-frequency-and-duration) | -->
 <!-- | 4.1.2. | [Accessibility to Community](#412-accessibility-to-community) | -->
-| 4.2. | [Asset Management](#42-asset-management) |
 <!-- | 4.2.1. | [Funding](#421-funding) | -->
 <!-- | 4.2.2. | [Data Assets](#422-data-assets) | -->
 <!-- | 4.2.2a. | [Data Storage](#422a-data-storage) | -->
@@ -33,11 +42,8 @@ Table of Contents
 <!-- | 4.2.4. | [Access Control](#424-access-control) | -->
 <!-- | 4.2.4a. | [Access Privileges](#424a-access-privileges) | -->
 <!-- | 4.2.4b. | [Updates](#424b-updates) | -->
-| 4.3. | [Changes to Constitution](#43-changes-to-constitution) |
 <!-- | 4.3.1. | [Accessibility to Community](#431-accessibility-to-community) | -->
 <!-- | 4.3.2. | [Changes to Constitution](#432-changes-to-constitution) | -->
-| 5. | [Membership](#5-membership) |
-| 5.1. | [Joining CSPAC - Elections](#51-joining-cspac---elections) |
 <!-- | 5.1.2. | [Eligibility](#512-eligibility) | -->
 <!-- | 5.1.3. | [Term Lengths](#513-term-lengths) | -->
 <!-- | 5.1.4. | [Term Limits](#514-term-limits) | -->
@@ -47,15 +53,12 @@ Table of Contents
 <!-- | 5.1.5c. | [The Ballot](#515c-the-ballot) | -->
 <!-- | 5.1.5c. | [Voting Period](#515c-voting-period) | -->
 <!-- | 5.1.5d. | [Election Results](#515d-election-results) | -->
-| 5.2. | [Joining CSPAC - Temporary Membership](#52-joining-cspac---temporary-membership) |
 <!-- | 5.2.1. | [Eligibility](#521-eligibility) | -->
 <!-- | 5.2.2. | [Term Length](#522-term-length) | -->
 <!-- | 5.2.3. | [Responsibilities](#523-responsibilities) | -->
 <!-- | 5.2.4. | [Exceptions](#524-exceptions) | -->
-| 5.3. | [Leaving CSPAC](#53-leaving-cspac) |
 <!-- | 5.3.1. | [Resignation by Choice](#531-resignation-by-choice) | -->
 <!-- | 5.3.2. | [Removal of a Board Member](#532-removal-of-a-board-member) | -->
-| 5.4. | [Member Responsibilities](#54-member-responsibilities) |
 <!-- | 5.4.1.a. | [Meeting Attendance](#541a-meeting-attendance) | -->
 <!-- | 5.4.1.b. | [Weekly Assignments](#541b-weekly-assignments) | -->
 <!-- | 5.4.2. | [Adherence to Constitution](#542-adherence-to-constitution) | -->
@@ -65,8 +68,7 @@ Table of Contents
 --------------------------------------------------------------------------------
 
 
-0. Definitions of Terms
------------------------
+## 0. Definitions of Terms
 * CSPAC :: Computer Science PhD Advisory Council
 * CSPhDs :: The body of all PhD students at Northwestern University who take one of the Computer Science qualifying exams, as outlined in the Graduate Student Manual in order to advance to candidacy in their degree. This includes, but is not limited to, PhD students in the following programs: CS, CSLS, TSB, and CE.
 * CS (program) :: Computer Science PhD program
@@ -77,23 +79,20 @@ Table of Contents
 
 
 
-1. Mission Statement
---------------------
+## 1. Mission Statement
 The mission of the Computer Science PhD Advisory Council is to promote the well-being of CSPhDs through advocacy and information-sharing.
 We seek to create and curate an accessible informational repository to connect CSPhDs with the resources they need for a healthy and productive graduate experience.
 We strive to elevate the voice and power of CSPhD students to address concerns that directly impact student life, including departmental policies and decisions.
 
 
 
-2. Organizational Structure
----------------------------
+## 2. Organizational Structure
 All CSPAC board members, whether elected or serving with interim status, have an equal vote.
 Voting policies and exceptions may be defined in other sections of this Constitution.
 
 
 
-3. Core Responsibilities
-------------------------
+## 3. Core Responsibilities
 The core responsibilities and pillars of CSPAC, in pursuit of the [Mission Statement](#1-mission-statement), include [Advocacy](#31-advocacy), [Communications](#32-communications), and [Research on Community Needs](#33-research-on-community-needs). 
 
 
@@ -145,8 +144,7 @@ The Board must maintain awareness of the needs and concerns of all CSPhD student
 
 
 
-4. Supporting Responsibilities
-------------------------------
+## 4. Supporting Responsibilities
 ### 4.1. Meetings
 #### 4.1.1. Frequency and Duration
 CSPAC shall meet at least once per week during each academic term for at least one hour during a regularly scheduled time.
@@ -208,8 +206,7 @@ Any change to the CSPAC Constitution must be put to vote. A change may only be m
 
 
 
-5. Membership
--------------
+## 5. Membership
 The number of members of the board should be maintained between 5 and 9 members. 
 
 
