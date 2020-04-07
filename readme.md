@@ -1,9 +1,6 @@
 CSPAC Constitution
 ==================
 
-lltodo: links
-
-
 Table of Contents
 -----------------
 | Section # | Link |
