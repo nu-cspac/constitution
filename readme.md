@@ -70,13 +70,13 @@ Table of Contents
 
 <br></br>
 ## 0. Definitions of Terms
-* CSPAC :: Computer Science PhD Advisory Council
-* CSPhDs :: The body of all PhD students at Northwestern University who take one of the Computer Science qualifying exams, as outlined in the Graduate Student Manual in order to advance to candidacy in their degree. This includes, but is not limited to, PhD students in the following programs: CS, CSLS, TSB, and CE.
-* CS (program) :: Computer Science PhD program
-* CSLS (program) :: Computer Science & Learning Sciences PhD program
-* TSB (program) :: Technology & Social Behavior PhD program
-* CE (program) :: Computer Engineering PhD program
-* Board :: Refers to the collection of all current members of the CSPAC board, including interim members.
+* *CSPAC* :: Computer Science PhD Advisory Council.
+* *CSPhDs* :: The body of all PhD students at Northwestern University who take one of the Computer Science qualifying exams, as outlined in the Graduate Student Manual in order to advance to candidacy in their degree. This includes, but is not limited to, PhD students in the following programs: CS, CSLS, TSB, and CE.
+* *Board* :: Refers to the collection of all current members of the CSPAC board, including interim members.
+* *CS (program)* :: Computer Science PhD program.
+* *CSLS (program)* :: Computer Science & Learning Sciences PhD program.
+* *TSB (program)* :: Technology & Social Behavior PhD program.
+* *CE (program)* :: Computer Engineering PhD program.
 
 
 
